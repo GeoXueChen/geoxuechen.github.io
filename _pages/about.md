@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Xue Chen's Homepage"
+title: "Xue Chen's Homepage"
 author_profile: true
 redirect_from: 
   - /about/
