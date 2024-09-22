@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "UNDER CONSTRUCTION ..."
+title: "Welcome to Xue Chen's homepage 🐝"
 author_profile: true
 redirect_from: 
   - /about/
