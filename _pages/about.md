@@ -21,9 +21,10 @@ Before joining UH, I completed a two-year postdoctoral research program supervis
 </p>
   
 <ul>
-<li>Uncertainty quantification of geophysical inverse problems based on machine learning techniques</li>
-<li>Deep learning-based signal processing, modeling, imaging, uncertainty quantification of electromagnetic data, especially airborne electromagnetic data</li>
-<li>Near-surface hydrological investigation and resource exploration</li>
+<li>Development of multi-temporal InSAR techniques</li>
+<li>Monitoring and modeling of land subsidence</li>
+<li>Spatiotemporal analysis of remote sensing data</li>
+<li>Impact of climate change on natural hazards</li>
 </ul>
 
 
