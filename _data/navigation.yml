@@ -8,10 +8,10 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
+  - title: "Presentations"
     url: /talks/    
 
-  - title: "Activities"
+  - title: "Research"
     url: /teaching/    
     
  # - title: "Portfolio"
@@ -20,8 +20,8 @@ main:
  # - title: "Blog Posts"
  #   url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+ # - title: "CV"
+ #   url: /cv/
     
-  - title: "Talkmap"
-    url: /talkmap/
+ # - title: "Talkmap"
+ #   url: /talkmap/
