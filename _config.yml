@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Xue Chen"
 title_separator          : "-"
-name                     : &name "Xue Chen 🌍"
+name                     : &name "Xue Chen"
 description              : &description "Assistant Researcher"
 url                      : https://geoxuechen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "geoxuechen/geoxuechen.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Xue Chen"
+  name             : "Xue Chen 🌍"
   pronouns         : # example: "she/her"  
   bio              : "Assistant researcher"
   location         : "Padua, Italy"
